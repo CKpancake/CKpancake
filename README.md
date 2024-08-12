@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi My name is Nop at you can see on my profile
+## I`m currently learning Web dev (odin project) and rust (Youtube) on my own 
+## i also know basic of python because i am in school Gifted Computer track
+## How to reach me: Email nop.ckpancake@gmail.com IG https://www.instagram.com/c00kiepancake/
 <!--
 **CKpancake/CKpancake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
